@@ -1,0 +1,23 @@
+.hero {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.container{
+  color: white;
+}
+
+.content {
+  background-color: black;
+  padding: 50px 0;
+}
+
+img {
+  margin-bottom: 15px;
+}
